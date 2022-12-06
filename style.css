@@ -1,5 +1,6 @@
 *{
     font-family: fantasy;
+    background-color: peru;
 
 }
 
@@ -8,7 +9,7 @@ h1{
     width: 100%;
     text-align: center;
 
-    color: goldenrod;
+    color: royalblue;
 }
 
 p{
